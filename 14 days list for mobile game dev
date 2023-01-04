@@ -1,0 +1,88 @@
+if I wanna try to develop mobile games can you give roadmap for 14 days with
+TODO tasks for every day. I wanna see for every day what I need to learn
+to be able to create simple mobile game with Unity engine. 
+I wanna spend no more than three-four hours per day for these activities. 
+
+Certainly! Here is a roadmap for 14 days that outlines some tasks you can work on each
+day to learn how to create a simple mobile game with the Unity engine:
+
+Day 1:
+
+    Install the Unity engine and familiarize yourself with the interface.
+    Set up a new project and explore the project hierarchy.
+    Begin learning about the C# programming language.
+
+Day 2:
+
+    Continue learning about C# programming and practice writing basic code.
+    Begin learning about game development concepts such as game objects, components, and prefabs.
+
+Day 3:
+
+    Learn about the Unity Editor and how to use it to create and edit game objects.
+    Begin working on a simple prototype for your game using basic game objects and simple mechanics.
+
+Day 4:
+
+    Learn about Unity's physics system and how to use it to create simple gameplay mechanics.
+    Continue working on your game prototype and begin implementing basic gameplay mechanics.
+
+Day 5:
+
+    Learn about Unity's audio system and how to use it to add sound effects and music to your game.
+    Continue working on your game prototype and begin adding audio to enhance the gameplay
+    experience.
+
+Day 6:
+
+    Learn about Unity's animation system and how to use it to create simple animations for your game.
+    Begin working on visual assets for your game, such as character models and environment assets.
+
+Day 7:
+
+    Learn about Unity's particle system and how to use it to create special effects for your game.
+    Continue working on your game prototype and begin adding visual assets and special effects.
+
+Day 8:
+
+    Learn about Unity's user interface system and how to use it to create a simple UI for your game.
+    Begin working on the UI for your game and integrating it into your prototype.
+
+Day 9:
+
+    Learn about testing and debugging in Unity and how to use the debugger to troubleshoot
+    problems in your game.
+    Continue working on your game prototype and begin testing and debugging your code.
+
+Day 10:
+
+    Learn about version control and how to use a tool like Git to manage your code and assets.
+    Begin integrating version control into your workflow and committing your changes regularly.
+
+Day 11:
+
+    Learn about mobile development and how to build and deploy your game to a mobile device.
+    Begin testing your game on a mobile device and making any necessary adjustments.
+
+Day 12:
+
+    Learn about mobile optimization and how to optimize your game for different mobile devices.
+    Begin optimizing your game for mobile devices and improving performance.
+
+Day 13:
+
+    Learn about mobile monetization and how to monetize your game using techniques such
+    as in-app purchases and advertising.
+    Begin implementing monetization strategies into your game.
+
+Day 14:
+
+    Continue working on your game and making improvements as needed.
+    Start preparing your game for release and submitting it to app stores or other
+    distribution platforms.
+
+This roadmap is just a suggestion, and you may need to adjust it based on your
+own goals and learning pace. It's also important to keep in mind that learning
+how to create a mobile game with the Unity engine can be a significant undertaking,
+and it may take longer than 14 days to develop your skills and create a simple game.
+
